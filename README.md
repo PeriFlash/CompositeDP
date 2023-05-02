@@ -24,17 +24,29 @@
 	Please see the Example1.py and Example2.py file.
 
 4. Perturbation Function List:
-	Perturbation-1: 	Activation-1+Base-1,   	index=1  
-	Perturbation-2: 	Activation-2+Base-1,   	index=2 
-	Perturbation-3: 	Activation-3+Base-1,   	index=3  
-	Perturbation-4: 	Activation-1+Base-2,   	index=4  
-	Perturbation-5: 	Activation-2+Base-2,   	index=5  
-	Perturbation-6: 	Activation-3+Base-2,   	index=6  
-	Perturbation-7: 	Activation-1+Base-3,   	index=7  
-	Perturbation-8: 	Activation-2+Base-3,   	index=8  
-	Perturbation-9: 	Activation-3+Base-3,   	index=9  
-	Perturbation-10: 	Activation-1+Base-4,   	index=10  
-	Perturbation-11: 	Activation-2+Base-4,   	index=11  
+
+	Perturbation-1: 	Activation-1+Base-1,   	index=1
+	
+	Perturbation-2: 	Activation-2+Base-1,   	index=2
+	
+	Perturbation-3: 	Activation-3+Base-1,   	index=3
+	
+	Perturbation-4: 	Activation-1+Base-2,   	index=4
+	
+	Perturbation-5: 	Activation-2+Base-2,   	index=5
+	
+	Perturbation-6: 	Activation-3+Base-2,   	index=6
+	
+	Perturbation-7: 	Activation-1+Base-3,   	index=7
+	
+	Perturbation-8: 	Activation-2+Base-3,   	index=8
+	
+	Perturbation-9: 	Activation-3+Base-3,   	index=9
+	
+	Perturbation-10: 	Activation-1+Base-4,   	index=10
+	
+	Perturbation-11: 	Activation-2+Base-4,   	index=11
+	
 	Perturbation-12: 	Activation-3+Base-4,   	index=12  
 
 5. How to use perturbation function:
